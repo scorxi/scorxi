@@ -1,4 +1,4 @@
-<p align="left">Hi there! :waving_hand</p> :
+<p align="left">Hi there!</p> :waving_hand:
 
 ###
 
