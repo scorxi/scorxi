@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">All of my professional and personal projects are accessible at <a href="https://novemberxi.tech/project">https://novemberxi.tech/project</a></p>
+<p align="left">All of my professional and personal projects are accessible at <a href="https://novemberxi.tech/project" target="_blank">https://novemberxi.tech/project</a></p>
 
 ###
 
